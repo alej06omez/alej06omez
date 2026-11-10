@@ -43,8 +43,8 @@ Tengo experiencia en **Desarrollo Frontend y Backend** y me encanta aprender nue
 ## Aprendizaje y Certificaciones
 
 - **Google AI Essentials** - 2026
-- Microsoft Data Engineer - 2026
-
+- Microsoft Data Engineer - 2026 - ####
+- English Language Integrate Skills by UBC - 2026
 ---
 
 ## Mis intereses
